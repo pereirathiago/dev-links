@@ -8,7 +8,8 @@ Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnolog
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
+  <a href="#earth_americas-quem-administrou">Quem Administrou?</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-licença">Licença</a>
 </p>
 
 <p align="center">
@@ -48,11 +49,9 @@ Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figm
 
 ---
 
-<a id="administrou">
-
 ## :earth_americas: Quem administrou?
 
-Esse projeto foi administrado por **[Mayk Brito](https://github.com/maykbrito)** nas aulas da **Next Level Week**.
+Esse projeto foi administrado por **[Mayk Brito](https://github.com/maykbrito)** nas aulas da **Dev Links** por **Rocketseat**.
 
 ---
 
